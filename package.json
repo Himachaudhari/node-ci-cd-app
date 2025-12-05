@@ -1,0 +1,10 @@
+{
+  "name": "node-ci-cd-app",
+  "version": "1.0.0",
+  "main": "app/index.js",
+  "scripts": {
+    "start": "node app/index.js",
+    "test": "echo \"Running tests...\" && exit 0"
+  },
+  "dependencies": {}
+}
